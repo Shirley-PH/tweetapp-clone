@@ -8,9 +8,8 @@ export default function NewTweet() {
             <p><b> Compose new Tweet</b></p>
             <div className='container'>
                 <form>
-                <textarea name="message" rows="10" cols="30">
-                The cat was playing in the garden.
-                </textarea>
+                <textarea  rows="10" cols="30" />
+                
                 <br/>
                 <button>Submit</button>
                 </form>
